@@ -32,3 +32,4 @@ Xiaomi Redmi 1S(C/W) was announced and released in May, 2014.
 
 
 Edited by Mediateeee at July 6,2020.
+Device Picture from The LineageOS Project
