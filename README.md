@@ -31,5 +31,5 @@ Xiaomi Redmi 1S(C/W) was announced and released in May, 2014.
 ![Xiaomi Redmi 1S](https://wiki.lineageos.org/images/devices/armani.png "Xiaomi Redmi 1S in black")
 
 
-Edited by Mediateeee at July 6,2020.
+Edited by Mediateeee at July 6,2020
 Device Picture from The LineageOS Project
